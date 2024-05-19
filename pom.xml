@@ -1,0 +1,7 @@
+<project>
+<modelVersion>4.0.0</modelVersion><!--pom.xml version -->
+<groupId>com.demo.project</groupId>
+<artifactId>mavenproject</artifactId>
+<version>1.0</version>
+<packaging>jar</packaging>
+</project> 
